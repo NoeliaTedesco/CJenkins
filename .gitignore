@@ -1,0 +1,17 @@
+# Eclipse IDE: Archivos de configuracion
+.classpath
+.project
+.settings/
+Modulos/src/logfile.log
+Modulos/.settings/
+Modulos/.project
+Modulos/.classpath
+Modulos/target/
+Modulos/test-output/
+framework/.settings/
+framework/.project
+framework/.classpath
+framework/target/
+ 
+# Maven: Archivos compilados
+target/
